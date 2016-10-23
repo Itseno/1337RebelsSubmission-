@@ -1,0 +1,31 @@
+Searching 67 files for "traingle.jpg"
+
+/Users/chaganti/Documents/MyProjects/MyFirstBootstrapWebSite/asses.html:
+   85                  </div>
+   86                  <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+   87:                     <img class="img-responsive" src="img/traingle.jpg" alt="">
+   88                  </div>
+   89              </div>
+
+/Users/chaganti/Documents/MyProjects/MyFirstBootstrapWebSite/donate.html:
+   87                  </div>
+   88                  <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+   89:                     <img class="img-responsive" src="img/traingle.jpg" alt="">
+   90                  </div>
+   91              </div>
+
+/Users/chaganti/Documents/MyProjects/MyFirstBootstrapWebSite/needs.html:
+   86                  </div>
+   87                  <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+   88:                     <img class="img-responsive" src="img/traingle.jpg" alt="">
+   89                  </div>
+   90              </div>
+
+/Users/chaganti/Documents/MyProjects/MyFirstBootstrapWebSite/watch.html:
+   95                  </div>
+   96                  <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+   97:                     <img class="img-responsive" src="img/traingle.jpg" alt="">
+   98                  </div>
+   99              </div>
+
+4 matches across 4 files
